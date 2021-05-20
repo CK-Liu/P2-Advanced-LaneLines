@@ -8,7 +8,6 @@ A great writeup should include the rubric points as well as your description of 
 
 All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :).
 
-You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.
 
 ---
 
